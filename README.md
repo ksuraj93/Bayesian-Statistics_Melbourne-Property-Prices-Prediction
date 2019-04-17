@@ -47,3 +47,5 @@ PROPERTY | AREA | BEDROOMS | BATHROOMS | CARPARKS | PROPERTY TYPE
 3 | 1500 | 2 | 1 | 1 | HOUSE
 4 | 2500 | 5 | 4 | 4 | HOUSE
 5 | 250 | 3 | 2 | 1 | UNIT
+
+Find the complete project [here](https://github.com/ksuraj93/Bayesian-Statistics_Melbourne-Property-Prices-Prediction/blob/master/bayersian_2_FINAL.pdf)
